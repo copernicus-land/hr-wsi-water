@@ -18,9 +18,8 @@ The notebook guides users through the following workflow:
 
 This notebook can be executed directly on the **CDSE JupyterLab** platform or within a local environment.
 
-## Authors & Contact
+## Contact
 
-  - **Authors**: Christian Gruber, Rupert von der Kammer (GeoVille GmbH, 2026)
   - **CLMS Support**: [Copernicus Land Monitoring Service Desk](https://land.copernicus.eu/en/contact-service-helpdesk)
 
 ## Prerequisites & Installation for Local Execution (Visual Studio Code / Conda)
